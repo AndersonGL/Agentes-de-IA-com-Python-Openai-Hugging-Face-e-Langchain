@@ -1,7 +1,3 @@
-# Agentes-de-IA-com-Python-Openai-Hugging-Face-e-Langchain
-Estudos de IA com Python
-
-
 # 🤖 Curso Completo de Inteligência Artificial com OpenAI, Hugging Face e LangChain
 
 Este repositório contém o conteúdo e as anotações do curso completo sobre **IA aplicada com LLMs**, utilizando as bibliotecas mais poderosas da atualidade:
