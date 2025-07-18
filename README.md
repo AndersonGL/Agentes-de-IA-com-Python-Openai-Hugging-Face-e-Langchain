@@ -34,7 +34,7 @@ Este repositório contém o conteúdo e as anotações do curso completo sobre *
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/curso-ia-com-openai.git
+git clone https://github.com/AndersonGL/Agentes-de-IA-com-Python-Openai-Hugging-Face-e-Langchain.git
 cd curso-ia-com-openai
 
 # Crie e ative um ambiente virtual
